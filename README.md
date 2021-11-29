@@ -8,14 +8,16 @@
 <br></br>
 
 <p style="font-size:150%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;春季:
-<a href="chun.html">商品样图</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夏季:
-<a href="xia.html">商品样图</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秋季:
-<a href="qiu.html">商品样图</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;冬季:
-<a href="dong.html">商品样图</a>
+春季:<a href="chun.html">商品样图</a>
+</p>
+<p style="font-size:150%">
+夏季:<a href="xia.html">商品样图</a>
+</p>
+<p style="font-size:150%">
+秋季:<a href="qiu.html">商品样图</a>
+</p>
+<p style="font-size:150%">
+冬季:<a href="dong.html">商品样图</a>
 </p>
 
 <img src="LZKQQ38LM)32KE01K}C)0@X.jpg"style="width:100%;height:40%">
