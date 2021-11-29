@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body background-size:cover">
 <img src="~JS]VDBG{)3K%4Y7@Q7}$S7.jpg"style="width:100%">
